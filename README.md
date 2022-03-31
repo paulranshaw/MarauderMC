@@ -14,9 +14,9 @@
 
 **MarauderMC** is a custom [**Discord**](https://discord.com/) bot solution developed within [**discord.py**](https://github.com/Rapptz/discord.py), an API wrapper written in Python.
 
-The management of an online gaming community, **MarauderMC**, comissioned me to develop and setup a bespoke bot application for their Discord server to handle support and verification matters.
+The management of an online gaming community, **MarauderMC**, comissioned me to develop and setup a bespoke bot application for their Discord guild to handle support and verification matters.
 
-Such application was developed promptly and delivered upon key client needs of allowing server members to partake in reaction functionality and ensuring that tickets workflow was as efficient as possible for support staff.
+Such application was developed promptly and delivered upon key client needs of allowing guild members to partake in reaction functionality and ensuring that tickets workflow was as efficient as possible for support staff.
 
 ### Built With
 * [Python](https://www.python.org/)
