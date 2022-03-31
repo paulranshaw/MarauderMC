@@ -3,7 +3,11 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-![MarauderMC](https://user-images.githubusercontent.com/78688623/160965843-31dd0dd6-ad6f-4167-8e22-1a5d37f91a38.jpg)
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/78688623/160965843-31dd0dd6-ad6f-4167-8e22-1a5d37f91a38.jpg" width="256" height="256">
+  </a>
 
 <!-- ABOUT -->
 ## About
