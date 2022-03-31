@@ -3,6 +3,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+![MarauderMC](https://user-images.githubusercontent.com/78688623/160965843-31dd0dd6-ad6f-4167-8e22-1a5d37f91a38.jpg)
+
 <!-- ABOUT -->
 ## About
 
@@ -15,7 +17,16 @@
 ## Table of Contents
 * [About](#about)
   * [Built With](#built-with)
+* [Installation](#installation)
 * [License](#license)
+
+<!-- INSTALLATION -->
+## Installation
+To run **MarauderMC**, download this repository and ensure that you are running `Python 3.5.3` or higher and have `discord.py` installed:
+
+`python3 -m pip install -U discord.py`
+
+Then set your bot token: `token=''` within `config.py`, run `maraudermc.py` and away you go!
 
 <!-- LICENSE -->
 ## License
