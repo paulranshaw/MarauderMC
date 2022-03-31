@@ -10,6 +10,10 @@
 
 **MarauderMC** is a custom [**Discord**](https://discord.com/) bot solution developed within [**discord.py**](https://github.com/Rapptz/discord.py), an API wrapper written in Python.
 
+The management of an online gaming community, **MarauderMC**, comissioned me to develop and setup a bespoke bot application for their Discord server to handle support and verification matters.
+
+Such application was developed promptly and delivered upon key client needs of allowing server members to partake in reaction functionality and ensuring that tickets workflow was as efficient as possible for support staff.
+
 ### Built With
 * [Python](https://www.python.org/)
 
@@ -18,6 +22,7 @@
 * [About](#about)
   * [Built With](#built-with)
 * [Installation](#installation)
+* [Commands](#commands)
 * [License](#license)
 
 <!-- INSTALLATION -->
@@ -27,6 +32,14 @@ To run **MarauderMC**, download this repository and ensure that you are running 
 `python3 -m pip install -U discord.py`
 
 Then set your bot token: `token=''` within `config.py`, run `maraudermc.py` and away you go!
+
+<!-- COMMANDS -->
+## Commands
+| Command Usage | Description | Permission |
+| ------- | ----------- | ----------- |
+| `!clickVerification` | **MarauderMC** will output an embed to be used with verification functionality. | administrator |
+| `!close` | **MarauderMC** will close the current ticket and use Toptal API to output ticket log. | config.ticketsSupportRole |
+| `!tickets` | **MarauderMC** will output an embed to be used with tickets functionality. | administrator |
 
 <!-- LICENSE -->
 ## License
